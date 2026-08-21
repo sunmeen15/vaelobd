@@ -1,5 +1,5 @@
 /* =========================================================================
-   ETHEREAL — SITE CONTENT FILE
+ 
    -------------------------------------------------------------------------
    This is the ONLY file you need to touch to change:
      - the ☰ menu links (Home, Shop, For Him, For Her, Combo, etc.)
@@ -75,8 +75,8 @@ const SITE = {
       },
       {
         // Once you add your file, change this to: "assets/videos/video-2.mp4"
-        video: "",
-        poster: "assets/images/hero/banner-2.jpg",
+        video: "assets/images/hero/",
+        poster: "",
         caption: "Shop now",
         link: "shop"
       }
