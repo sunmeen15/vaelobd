@@ -26,7 +26,7 @@
 const SITE = {
 
 //  brand: "Vaelo",
-  image: "",
+  image: "assets/images/hero/vaelo.jfif",
 
   /* ---------------- MENU (the panel that opens when you tap the ☰ icon) ----------------
      Add, remove, rename, or reorder links freely. "link" can be:
