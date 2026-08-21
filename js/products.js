@@ -68,8 +68,8 @@ const SITE = {
     videos: [
       {
         // Once you add your file, change this to: "assets/videos/video-1.mp4"
-        video: "",
-        poster: "assets/images/hero/banner-1.jpg",
+        video: "assets/images/hero/asmr.mp4",
+        poster: "",
         caption: "Shop now",
         link: "shop"
       },
