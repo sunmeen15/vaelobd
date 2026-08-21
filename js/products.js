@@ -75,7 +75,7 @@ const SITE = {
       },
       {
         // Once you add your file, change this to: "assets/videos/video-2.mp4"
-        video: "assets/images/hero/",
+        video: "assets/images/hero/vbb.mp4",
         poster: "",
         caption: "Shop now",
         link: "shop"
