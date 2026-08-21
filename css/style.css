@@ -84,7 +84,7 @@ font-family:var(--font-display);
   text-align:center;
   white-space:nowrap; */
    .brand img{
-  height: 34px;      /* adjust this number to make the logo bigger/smaller */
+  height: 44px;      /* adjust this number to make the logo bigger/smaller */
   width: auto;
   display: block;
 }
