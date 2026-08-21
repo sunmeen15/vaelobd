@@ -50,7 +50,7 @@ const SITE = {
     video: "",
     // 👇 This is the big word on the homepage banner ("Legacy" in the demo).
     //    Change the text between the quotes to whatever you want it to say.
-    title: "Legacy",
+    title: "Elegance",
     buttonText: "Shop now",
     // "shop" scrolls to the product grid. Change to a product id (e.g. "p1")
     // to send people straight to one product instead.
