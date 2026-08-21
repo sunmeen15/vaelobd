@@ -26,7 +26,7 @@
 const SITE = {
 
  brand: "Vaelo",
-logo: "assets/images/logo/vaelo.jfif",
+logo: "assets/images/hero/vaelo.jfif",
  
 
   /* ---------------- MENU (the panel that opens when you tap the ☰ icon) ----------------
