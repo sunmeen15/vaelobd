@@ -76,13 +76,18 @@ ul{list-style:none;}
 .icon-btn svg{width:100%;height:100%;stroke:currentColor;}
 
 .brand{
-  font-family:var(--font-display);
+ /* font-family:var(--font-display);
   font-style:italic;
   font-weight:500;
   font-size:26px;
   letter-spacing:.02em;
   text-align:center;
-  white-space:nowrap;
+  white-space:nowrap; */
+   .brand img{
+  height: 32px;      /* adjust this number to make the logo bigger/smaller */
+  width: auto;
+  display: block;
+}
 }
 
 /* ---------------- Menu drawer ---------------- */
