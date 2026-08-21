@@ -98,19 +98,19 @@ const SITE = {
   products: [
     {
       id: "p1",
-      name: "Legacy Tank Top - Black",
+      name: "Good girl",
       price: 850.00,
       currency: "TK",
       // Main image shown on the homepage grid + first image on product page
-      image: "assets/images/products/legacy-tank-black-1.jpg",
+      image: "assets/images/products/goodgirl.jfif",
       // Extra gallery images for the product page (optional, can be empty [])
       gallery: [
-        "assets/images/products/legacy-tank-black-2.jpg",
-        "assets/images/products/legacy-tank-black-3.jpg"
+        "assets/images/products/goodgirl.jfif",
+        "assets/images/products/goodgirl.jfif"
       ],
       // Optional product video. Leave "" for none.
       video: "",
-      description: "A relaxed, sleeveless tank in heavyweight cotton, finished with the embroidered Legacy signature at the chest.",
+      description: "",
       sizes: ["6ml", "15ml", "30ml", "50ml"]
     },
     {
