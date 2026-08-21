@@ -45,9 +45,9 @@ const SITE = {
   /* ---------------- HERO (big banner when you first open the site) ---------------- */
   hero: {
     // Put your hero picture here 👇
-    image: "assets/images/hero/f92a8468-89af-4d60-b290-9d9e99643816 (1).mp4",
+    image: "",
     // Optional: put a hero VIDEO here instead of a picture. Leave "" for none.
-    video: "",
+    video: "assets/images/hero/f92a8468-89af-4d60-b290-9d9e99643816 (1).mp4",
     // 👇 This is the big word on the homepage banner ("Legacy" in the demo).
     //    Change the text between the quotes to whatever you want it to say.
     title: "Elegance",
