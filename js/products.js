@@ -49,7 +49,7 @@ logo: "assets/images/hero/va.jfif",
     // Put your hero picture here 👇
     image: "",
     // Optional: put a hero VIDEO here instead of a picture. Leave "" for none.
-    video: "assets/images/hero/f92a8468-89af-4d60-b290-9d9e99643816 (1).mp4",
+    video: "assets/images/hero/Messenger_creation_D10F48B4-9DF9-44F9-93AD-5FBCD7FD2169.mp4",
     // 👇 This is the big word on the homepage banner ("Legacy" in the demo).
     //    Change the text between the quotes to whatever you want it to say.
     title: "Elegance",
