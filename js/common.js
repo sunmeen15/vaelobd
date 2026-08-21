@@ -24,7 +24,7 @@ function renderHeader(){
         <button class="icon-btn" aria-label="Menu" onclick="openMenu()">${ICONS.menu}</button>
         <button class="icon-btn" aria-label="Search">${ICONS.search}</button>
       </div>
-      <a href="index.html" class="brand">${SITE.brand}</a>
+      <a href="index.html" class="brand"><img src="${SITE.logo}" alt="${SITE.brand}"></a>
       <div class="header-side right">
         <button class="icon-btn" aria-label="Account">${ICONS.user}</button>
         <button class="icon-btn" aria-label="Bag">${ICONS.bag}</button>
