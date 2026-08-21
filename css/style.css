@@ -291,14 +291,13 @@ font-family:var(--font-display);
   padding:0 24px 80px;
   display:grid;
   grid-template-columns:repeat(2,1fr);
-  gap:2px;
-  background:var(--c-mist);
+  gap:20px;
+  background:var(--c-white);
 }
 
 @media(min-width:720px){
-  .product-grid{grid-template-columns:repeat(4,1fr);gap:2px;}
+  .product-grid{grid-template-columns:repeat(4,1fr);gap:24px;}
 }
-
 .product-card{
   background:var(--c-white);
   display:flex;
