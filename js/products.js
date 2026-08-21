@@ -25,7 +25,6 @@
 
 const SITE = {
 
-  brand: "Vaelo",
  brand: "Vaelo",
 logo: "assets/images/logo/vaelo.jfif",
  
