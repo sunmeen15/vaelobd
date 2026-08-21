@@ -115,38 +115,38 @@ const SITE = {
     },
     {
       id: "p2",
-      name: "Sun Chaser Tee",
+      name: "Dunhill icon",
       price: 1299.00,
       currency: "TK",
-      image: "assets/images/products/sun-chaser-tee-1.jpg",
+      image: "assets/images/products/dunhillicon.jfif",
       gallery: [
-        "assets/images/products/sun-chaser-tee-2.jpg"
+        "assets/images/products/dunhillicon.jfif"
       ],
       video: "",
-      description: "An oversized-fit tee in soft washed cotton, with the Legacy emblem embroidered at the chest.",
+      description: "",
       sizes: ["6ml", "15ml", "30ml", "50ml"]
     },
     {
       id: "p3",
-      name: "Legacy Crewneck - Sand",
+      name: "Dior Sauvage",
       price: 1450.00,
       currency: "TK",
-      image: "assets/images/products/legacy-crew-sand-1.jpg",
+      image: "assets/images/products/diorsauvage.jfif",
       gallery: [],
       // Example of a product with a VIDEO instead of just a photo.
       video: "",
-      description: "A midweight crewneck in a heathered sand tone with dropped shoulders and ribbed trims.",
+      description: "",
       sizes: ["6ml", "15ml", "30ml", "50ml"]
     },
     {
       id: "p4",
-      name: "Legacy Crewneck - Navy",
+      name: "Blue de channel",
       price: 1450.00,
       currency: "TK",
-      image: "assets/images/products/legacy-crew-navy-1.jpg",
+      image: "assets/images/products/bleu.jfif",
       gallery: [],
       video: "",
-      description: "A midweight crewneck in deep navy with dropped shoulders and ribbed trims.",
+      description: "",
       sizes: ["6ml", "15ml", "30ml", "50ml"]
     }
   ]
